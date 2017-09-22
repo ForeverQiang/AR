@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon GO", "Pokemon GO.csproj", "{6291F9DE-4E89-2E6A-F0C9-B7CF8B325D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon GO.Editor", "Pokemon GO.Editor.csproj", "{CF2176C7-27D4-DA06-F6B7-1277C3C53FFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6291F9DE-4E89-2E6A-F0C9-B7CF8B325D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6291F9DE-4E89-2E6A-F0C9-B7CF8B325D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6291F9DE-4E89-2E6A-F0C9-B7CF8B325D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6291F9DE-4E89-2E6A-F0C9-B7CF8B325D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2176C7-27D4-DA06-F6B7-1277C3C53FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2176C7-27D4-DA06-F6B7-1277C3C53FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2176C7-27D4-DA06-F6B7-1277C3C53FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2176C7-27D4-DA06-F6B7-1277C3C53FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
